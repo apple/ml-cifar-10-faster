@@ -1,0 +1,55 @@
+Uploaded data to GPUS 0.086s
+Compute patch whitening statistics:     0.465s
+Train acc 0.988 loss 0.920, validation acc 0.942 loss 0.992 wall time 10.318s
+Train acc 0.990 loss 0.918, validation acc 0.943 loss 0.991 wall time 7.854s
+Train acc 0.986 loss 0.922, validation acc 0.942 loss 0.989 wall time 7.813s
+Train acc 0.985 loss 0.925, validation acc 0.940 loss 0.992 wall time 7.861s
+Train acc 0.986 loss 0.924, validation acc 0.943 loss 0.988 wall time 7.846s
+Train acc 0.988 loss 0.921, validation acc 0.943 loss 0.991 wall time 7.825s
+Train acc 0.989 loss 0.919, validation acc 0.937 loss 0.992 wall time 7.800s
+Train acc 0.987 loss 0.920, validation acc 0.944 loss 0.988 wall time 7.819s
+Train acc 0.987 loss 0.924, validation acc 0.944 loss 0.991 wall time 7.807s
+Train acc 0.987 loss 0.922, validation acc 0.942 loss 0.992 wall time 7.830s
+Train acc 0.987 loss 0.922, validation acc 0.941 loss 0.988 wall time 7.848s
+Train acc 0.986 loss 0.924, validation acc 0.940 loss 0.995 wall time 7.911s
+Train acc 0.987 loss 0.923, validation acc 0.941 loss 0.992 wall time 7.957s
+Train acc 0.987 loss 0.922, validation acc 0.940 loss 0.996 wall time 7.905s
+Train acc 0.987 loss 0.921, validation acc 0.940 loss 0.991 wall time 7.814s
+Train acc 0.986 loss 0.925, validation acc 0.945 loss 0.989 wall time 7.827s
+Train acc 0.986 loss 0.922, validation acc 0.942 loss 0.989 wall time 7.791s
+Train acc 0.986 loss 0.920, validation acc 0.942 loss 0.990 wall time 7.796s
+Train acc 0.988 loss 0.922, validation acc 0.942 loss 0.992 wall time 7.799s
+Train acc 0.987 loss 0.921, validation acc 0.943 loss 0.990 wall time 7.831s
+Train acc 0.986 loss 0.922, validation acc 0.942 loss 0.988 wall time 7.832s
+Train acc 0.987 loss 0.922, validation acc 0.942 loss 0.989 wall time 7.855s
+Train acc 0.986 loss 0.923, validation acc 0.944 loss 0.987 wall time 7.949s
+Train acc 0.988 loss 0.922, validation acc 0.942 loss 0.990 wall time 7.870s
+Train acc 0.986 loss 0.922, validation acc 0.942 loss 0.992 wall time 7.996s
+Train acc 0.987 loss 0.923, validation acc 0.941 loss 0.990 wall time 7.831s
+Train acc 0.987 loss 0.919, validation acc 0.941 loss 0.993 wall time 7.792s
+Train acc 0.988 loss 0.921, validation acc 0.942 loss 0.988 wall time 7.806s
+Train acc 0.987 loss 0.922, validation acc 0.941 loss 0.991 wall time 7.806s
+Train acc 0.987 loss 0.921, validation acc 0.940 loss 0.993 wall time 7.913s
+Train acc 0.986 loss 0.922, validation acc 0.940 loss 0.992 wall time 7.842s
+Train acc 0.989 loss 0.922, validation acc 0.938 loss 0.994 wall time 7.799s
+Train acc 0.986 loss 0.925, validation acc 0.945 loss 0.991 wall time 7.809s
+Train acc 0.989 loss 0.919, validation acc 0.941 loss 0.991 wall time 7.819s
+Train acc 0.987 loss 0.921, validation acc 0.940 loss 0.993 wall time 7.794s
+Train acc 0.987 loss 0.922, validation acc 0.940 loss 0.995 wall time 7.798s
+Train acc 0.985 loss 0.924, validation acc 0.945 loss 0.989 wall time 7.851s
+Train acc 0.986 loss 0.922, validation acc 0.939 loss 0.995 wall time 7.817s
+Train acc 0.986 loss 0.923, validation acc 0.943 loss 0.987 wall time 7.813s
+Train acc 0.987 loss 0.923, validation acc 0.941 loss 0.991 wall time 7.807s
+Train acc 0.988 loss 0.918, validation acc 0.942 loss 0.989 wall time 7.827s
+Train acc 0.984 loss 0.924, validation acc 0.945 loss 0.988 wall time 7.805s
+Train acc 0.987 loss 0.922, validation acc 0.942 loss 0.992 wall time 7.793s
+Train acc 0.988 loss 0.921, validation acc 0.940 loss 0.993 wall time 7.814s
+Train acc 0.986 loss 0.920, validation acc 0.941 loss 0.990 wall time 7.787s
+Train acc 0.986 loss 0.923, validation acc 0.945 loss 0.989 wall time 7.844s
+Train acc 0.984 loss 0.927, validation acc 0.942 loss 0.993 wall time 7.815s
+Train acc 0.985 loss 0.924, validation acc 0.942 loss 0.992 wall time 7.817s
+Train acc 0.987 loss 0.921, validation acc 0.945 loss 0.988 wall time 7.866s
+Train acc 0.986 loss 0.921, validation acc 0.944 loss 0.992 wall time 7.815s
+Maximum training time 10.317606050521135 median 7.8189479458960705
+Lowest accuracy 0.9374 median 0.9419
+41 runs reached 0.94 out of 50
